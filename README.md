@@ -13,3 +13,4 @@ Our final result was a clean and functionable webpage holding data of UFO sighti
 ---
 ## Summary ##
 ---
+A drawback I found was just the clutter of information. At first glance you get a huge paragraph that just dumps random info on you. Then just data of UFO sightings with no context of where they came from and their validity. Two recommendations I'd make are 1. A comment filter, allowing users to find commonly spoke about UFO's that match description. 2. The overall aesthetics could use work, the grey isn't super exciting, the filters dont line up because of word length, and the header paragraph is just random with no context.
