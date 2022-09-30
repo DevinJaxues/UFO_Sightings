@@ -11,7 +11,8 @@ In this challenge our purpose was to create a HTML webpage and JavaScript file t
 ## Results ##
 ---
 Our final result was a clean and functionable webpage holding data of UFO sightings. Dana could use this webpage now for her presentation. With our set of filters this would allow users to visualize most common states, cities, countries, dates and shapes. Such as El Cajon, California having 4 reports of the same shape UFO on the same date.
-![](https://github.com/[DevinJaxues]/[UFO_Sightings]/blob/ufo_example.jpg?raw=true)
+![ufo_example](https://user-images.githubusercontent.com/108428454/193361973-dc796d34-046d-447e-8d53-1881814cb219.PNG)
+
 ---
 ## Summary ##
 ---
